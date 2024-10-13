@@ -1,0 +1,3 @@
+S.No,Product Name,Input Image Urls,Output Image Urls
+1,SKU1,"https://avatars.githubusercontent.com/u/75213538?v=4,https://avatars.githubusercontent.com/u/43969940?v=4","https://res.cloudinary.com/dhfhvrafz/image/upload/v1728655496/compressed_images/f32b3c84-e971-427d-aca8-7538247a8546.jpg,https://res.cloudinary.com/dhfhvrafz/image/upload/v1728655497/compressed_images/6bae2554-47d1-40af-84d3-82ca86d2be24.jpg"
+2,SKU2,"https://avatars.githubusercontent.com/u/43969940?v=4,https://avatars.githubusercontent.com/u/75213538?v=4","https://res.cloudinary.com/dhfhvrafz/image/upload/v1728655498/compressed_images/365a8d53-5e35-4642-8a00-adef019f840e.jpg,https://res.cloudinary.com/dhfhvrafz/image/upload/v1728655499/compressed_images/ef208aeb-b930-4d0e-b0b8-3187e31b2303.jpg"
